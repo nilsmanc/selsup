@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selsup-test/static/css/main.f57b9750.css",
+    "main.js": "/selsup-test/static/js/main.f90f7ad3.js",
+    "index.html": "/selsup-test/index.html",
+    "main.f57b9750.css.map": "/selsup-test/static/css/main.f57b9750.css.map",
+    "main.f90f7ad3.js.map": "/selsup-test/static/js/main.f90f7ad3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f57b9750.css",
+    "static/js/main.f90f7ad3.js"
+  ]
+}
